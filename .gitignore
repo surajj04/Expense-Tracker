@@ -1,0 +1,14 @@
+# Java / Spring Boot
+pocket/target/
+pocket/.idea/
+pocket/*.iml
+
+# React / Vite
+ui/node_modules/
+ui/dist/
+ui/.env
+
+# System
+.DS_Store
+*.log
+
